@@ -1,6 +1,6 @@
 # Data Science in Telco: Data Cleansing
 ### Overview
-The goal of this project is to clean the data before it is processed. Data cleaning, such as overcoming duplication of values, overcoming missing values, overcoming outliers, and standardizing values.
+The goal of this project is to clean the data before it is processed. Data cleaning, such as handling duplication of values, overcoming missing values, overcoming outliers, and standardizing values.
 ### Library
 - Pandas
 - Matplotlib

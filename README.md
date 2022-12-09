@@ -1,3 +1,13 @@
-# Data-Science-in-Telco-Data-Cleansing
-
-Data Science in Telco: Data Cleansing merupakan salah satu project pada kursus DQLab. Tujuan project ini adalah untuk mengukur kemampuan dalam membersihkan data (Data Cleansing) sebelum data akan diolah. Pembersihan data berupa mengatasi duplikasi nilai, mengatasi missing value, mengatasi outlier, dan melakukan standarisasi nilai.
+# Data Science in Telco: Data Cleansing
+### Overview
+The goal of this project is to clean the data before it is processed. Data cleaning, such as overcoming duplication of values, overcoming missing values, overcoming outliers, and standardizing values.
+### Library
+- Pandas
+- Matplotlib
+### Algorithm
+- Handling missing values by droping rows
+- Handling missing values by filling them using the median
+- Handling outliers by interquartile range
+- Standardizing the value by replacing the value
+### Certificate
+![alt text](certificate.png)
